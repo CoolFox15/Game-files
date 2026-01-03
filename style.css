@@ -58,8 +58,10 @@ h1 {
   background-color: #E62984;
   border: none;
   border-radius:12px; 
-  text-align: left;
-  vertical-align: top;
-  padding: 5px 10px;
+
+  position: fixed;
+  top: 10px;
+  left:10px;
+
 }
 
