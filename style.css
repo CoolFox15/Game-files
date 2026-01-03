@@ -56,6 +56,8 @@ h1 {
   font-family: 'Rubik Bubbles', cursive;
   color: #483D3C;
   background-color: #E62984;
-  text-align: top-left;
+  text-align: left;
+  vertical-align: top;
+  padding: 5px 10px;
 }
 
