@@ -25,3 +25,11 @@ h1 {
   color: #A34972;
   font-weight: bold;
 }
+
+#clickBtn {
+  width: 150px;
+  height: 150px;
+  border: none;
+  background-image: url('cat png');
+  background-size: contain;
+  background-position: center; 
