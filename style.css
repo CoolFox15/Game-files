@@ -51,3 +51,10 @@ h1 {
   transform: scale(1.1); 
 }
 
+#resetBtn {
+  font-size: 16px;
+  font-family: 'Rubik Bubbles', cursive;
+  color: #483D3C;
+  background-color: #E62984;
+}
+
