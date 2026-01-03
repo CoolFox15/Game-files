@@ -57,6 +57,7 @@ h1 {
   color: #483D3C;
   background-color: #E62984;
   border: none;
+  border-radius:12px; 
   text-align: left;
   vertical-align: top;
   padding: 5px 10px;
