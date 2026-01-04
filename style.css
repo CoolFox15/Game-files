@@ -18,8 +18,7 @@ h1 {
   font-weight: bold;
   color: #A34972;
   margin-left: 10px;
-  bottom: 10px;
-  left: 10px;
+  
 }
 
 #label {
@@ -29,8 +28,8 @@ h1 {
 }
 
 #clickBtn {
-  width: 500px;
-  height: 500px;
+  width: 450px;
+  height: 450px;
   border: none;
   background-image: url('cat.png'); 
   background-size: contain;
