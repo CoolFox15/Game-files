@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 
     setInterval(() => {
-        clicks += cps;
+        count += cps;
     }, 1000);
     
 });
