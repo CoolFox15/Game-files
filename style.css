@@ -90,6 +90,9 @@ h1 {
   background-size: contain;
   background-repeat: no-repeat;
   background-color: transparent;
+  background-position: absolute;
+  top: 40px;
+  left: 10px;
 }
   
   
